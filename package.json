@@ -1,0 +1,21 @@
+{
+  "name": "livedemo-component",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/livedemo.tag",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zosiakropka/livedemo-component.git"
+  },
+  "author": "Zofia Wiśniowolska <wisniowolska@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zosiakropka/livedemo-component/issues"
+  },
+  "homepage": "https://github.com/zosiakropka/livedemo-component#readme"
+}
